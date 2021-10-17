@@ -14,7 +14,7 @@ I'm currently training a stylegan3 on the synthetic image dataset from OpenAI's 
 
 The largest subset of images is the mannequins, showing a vast array of outfits on 128,000 male mannequins and 128,000 female mannequins. I hope this means the StyleGAN3 can learn plenty about fashion. Another large subset is drawings and illustrations which I'm curious to see personally with the strange pixel-less nature of StyleGAN3. 
 
-Training on a single GPU is tough - but I hope it's becoming more feasible. This repository is also meant to test those limits specifically as the current GPU situation is problematic for the democratization of applied machine learning. 
+Training on a single GPU is tough - but I hope it's becoming more feasible. This repository is also meant to test those limits specifically as the current GPU situation is problematic for the democratization of applied machine learning. That or I don't have enough money and bought an RTX 2070 for Half Life Alyx before the chip shortage started...
 
 
 This code is licensed under MIT unless (and, I am not a lawyer) breaking the terms outlined in the nvidia stylegan3 repository; which essentially automatically gives them ownership over anything trained with it as far as I can tell and prevents commercial use (unless it's for them, of course).
